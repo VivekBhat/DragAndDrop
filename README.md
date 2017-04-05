@@ -2,11 +2,13 @@
 
 This repo demonstrates the Drag and Drop feature using p5.js library
 
-## GIF 1
+### Single Addition
 
+ ![single addition](https://github.com/VivekBhat/DragAndDrop/blob/master/Resources/mov1.gif)
  
- 
-## GIF 2
+### Multiple addition
 
+
+ ![multiple addition](https://github.com/VivekBhat/DragAndDrop/blob/master/Resources/mov1.gif)
  
  
