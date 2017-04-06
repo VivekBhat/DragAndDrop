@@ -8,7 +8,6 @@ This repo demonstrates the Drag and Drop feature using p5.js library
  
 ### Multiple addition
 
-
- ![multiple addition](https://github.com/VivekBhat/DragAndDrop/blob/master/Resources/mov1.gif)
+ ![multiple addition](https://github.com/VivekBhat/DragAndDrop/blob/master/Resources/mov2.gif)
  
  
